@@ -6,7 +6,7 @@ A program for finding all the answers in game “4 = 10”
 ## How to Use
 
 1. Download the file `main.py` or clone the repository to your local machine
-2. Execute the file `main.py` and enter the problem
+2. Execute the file `main.py` and enter the problem "in pattern `a b c d`"
 3. You got the answer!
 
 
